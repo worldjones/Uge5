@@ -1,19 +1,16 @@
-# Uge35
+# Uge5
 Plain JPA and Facades:
 
 Can be found under: 01-tuesday-exercises/firstJPA
-
 
 Tuesday JPAintro:
 
 All done except tests
 
-
 Wednesday REST-intro:
 
 All exercises done
 Can be found under: 02-wednesday-exercises/rest1
-
 
 Thursday JPA_REST_JSON:
 
